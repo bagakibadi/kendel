@@ -51,7 +51,7 @@
               <div class="col-md-12 align-items-center">
                 <h3 class="text-green font-weight-bold" data-aos="fade-right" data-aos-delay="200" data-aos-duration="800">VISI</h3>
                 <p class="indent" style="text-align: justify" data-aos="fade-right" data-aos-delay="200" data-aos-duration="800">
-                  Terwujudnya masyarakat Kendel yang mandiri menuju Boyolali tersenyum yang Pro Investasi untuk mencapai masyarakat yang sehat dan sejahtera
+                  Terwujudnya masyarakat Kendel yang mandiri menuju Boyolali tersenyum yang Pro Investasi untuk mencapai masyarakat yang sehat dan sejahtera.
                 </p>
               </div>
             </div>
@@ -66,11 +66,11 @@
                   Misi merupakan pernyataan tentang apa yang harus dilaksanakan dalam upaya mencapai visi. Misi merupakan turunan dari pokok-pokok visi yang telah diidentifikasi sebelumnya.
                 </p> -->
                 <ol class="pl-5">
-                  <li>Meningkatkan pembangunan inrastruktur yang mendukung perekonomian desa</li>
-                  <li>Mewujudkan sarana prasarana desa yang baik</li>
-                  <li>Menciptakan tata kelola pemerintahan yang baik</li>
-                  <li>Mewujudkan desa yang unggul dan berprestasi</li>
-                  <li>Mewujudkan masyarakat yang sehat dan sejahtera</li>
+                  <li>Meningkatkan pembangunan inrastruktur yang mendukung perekonomian desa.</li>
+                  <li>Mewujudkan sarana prasarana desa yang baik.</li>
+                  <li>Menciptakan tata kelola pemerintahan yang baik.</li>
+                  <li>Mewujudkan desa yang unggul dan berprestasi.</li>
+                  <li>Mewujudkan masyarakat yang sehat dan sejahtera.</li>
                 </ol>
               </div>
             </div>
