@@ -33,7 +33,7 @@
                   </div>
                   <div class="col-md-8">
                     <h3 class="text-green font-weight-bold">Kusmanto</h3>
-                    <p>Kepala Desa Klego</p>
+                    <p>Kepala Desa Kendel</p>
                   </div>
                 </div>
               </div>

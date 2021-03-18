@@ -12,7 +12,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/assets/fonts/semibold.ttf"
   },
   {
-    "revision": "83f19a623b663654e2c5",
+    "revision": "742034db6df8fae11534",
     "url": "/css/app.7247bb11.css"
   },
   {
@@ -24,12 +24,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/boyolali.png"
   },
   {
-    "revision": "ebf0168d2896487b62f9e6b2a9694362",
+    "revision": "94edebd9a7282dee7274d48c019b9af7",
     "url": "/index.html"
   },
   {
-    "revision": "83f19a623b663654e2c5",
-    "url": "/js/app.150df057.js"
+    "revision": "742034db6df8fae11534",
+    "url": "/js/app.14e0a8c6.js"
   },
   {
     "revision": "77f8dc165f5d30fbd4e7",
