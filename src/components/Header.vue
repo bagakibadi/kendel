@@ -4,11 +4,11 @@
         <div class="overlay-bg"></div>
         <div style="width: 100%">
           <video autoplay muted loop id="myVideo" width="100%">
-            <source src="/assets/video/KlegoVideo.mp4" type="video/mp4">
+            <!-- <source src="/assets/video/KlegoVideo.mp4" type="video/mp4"> -->
           </video>
         </div>
         <div class="text-intro">
-          <h1 class="text1">Smart Klego</h1>
+          <h1 class="text1">Smart Kendel</h1>
           <h1 class="text2">#MajuBersamaDesa</h1>
         </div>
       </div>

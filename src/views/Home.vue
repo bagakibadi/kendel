@@ -14,12 +14,12 @@
                 <div class="row justify-content-between">
                   <div class="col-md-4 img-profile">
                     <div class="d-flex justify-content-center">
-                      <img src="/img/logo.png" class="img-fluid rounded-circle" alt="Cinque Terre">
+                      <img src="/img/boyolali.png" class="img-fluid rounded-circle" alt="Cinque Terre">
                     </div>
                   </div>
                   <div class="col-md-8" >
-                    <h3 class="text-green font-weight-bold">Desa Klego</h3>
-                    <p>Jl. Raya Karanggede – Gemolong Km. 07, Desa Klego Kec. Klego, Kab. Boyolali, Kodepos 57385</p>
+                    <h3 class="text-green font-weight-bold">Desa Kendel</h3>
+                    <p>Kecamatan Kemusu, Boyolali, Jawa Tengah, Indonesia</p>
                   </div>
                 </div>
               </div>
@@ -27,11 +27,12 @@
                 <div class="row justify-content-between">
                   <div class="col-md-4 img-profile">
                     <div class="d-flex justify-content-center">
-                      <img src="/img/PakGuntur.jpeg" class="img-fluid rounded-circle" alt="Cinque Terre">
+                      <img src="" class="img-fluid rounded-circle" alt="">
+                      <!-- <img src="/img/PakGuntur.jpeg" class="img-fluid rounded-circle" alt="Cinque Terre"> -->
                     </div>
                   </div>
                   <div class="col-md-8">
-                    <h3 class="text-green font-weight-bold">GUNTUR HS, S.Pd</h3>
+                    <h3 class="text-green font-weight-bold">Kusmanto</h3>
                     <p>Kepala Desa Klego</p>
                   </div>
                 </div>
@@ -50,7 +51,7 @@
               <div class="col-md-12 align-items-center">
                 <h3 class="text-green font-weight-bold" data-aos="fade-right" data-aos-delay="200" data-aos-duration="800">VISI</h3>
                 <p class="indent" style="text-align: justify" data-aos="fade-right" data-aos-delay="200" data-aos-duration="800">
-                  Visi pembangunan dalam RPJM Desa Tahun 2019-2025 merupakan visi Kepala Desa yang disampaikan pada saat proses pemilihan Kepala Desa. Visi yang telah ditetapkan oleh Kepala Desa terpilih tersebut adalah sebagai berikut : <br> <b style="font-style: italic;">"Mewujudkan Pemerintahan Desa Klego yang Berbudaya dan Mandiri".</b>
+                  Terwujudnya masyarakat Kendel yang mandiri menuju Boyolali tersenyum yang Pro Investasi untuk mencapai masyarakat yang sehat dan sejahtera
                 </p>
               </div>
             </div>
@@ -61,23 +62,21 @@
             <div class="row misi justify-content-center mt-4">
               <div class="col-md-12 align-items-center" data-aos="fade-left" data-aos-delay="200" data-aos-duration="800">
                 <h3 class="text-green font-weight-bold">Misi</h3>
-                <p class="indent" style="text-align: justify;">
+                <!-- <p class="indent" style="text-align: justify;">
                   Misi merupakan pernyataan tentang apa yang harus dilaksanakan dalam upaya mencapai visi. Misi merupakan turunan dari pokok-pokok visi yang telah diidentifikasi sebelumnya.
-                </p>
-                <ol>
-                  <li>Melakukan pelayanan masyarakat yang baik (good governance) transparan dan akuntabilitas.</li>
-                  <li>Peningkatan sarpra, tempat pengajuan anak (TPA), masjid, musholla, dan toleransi beragama.</li>
-                  <li>Melakukan inovasi dalam pengelolaan tanah pertanian dengan menggunakan alat modern sehingga efisien dan berkualitas.</li>
-                  <li>Peningkatan sumber daya manusia seni dan budaya serta melestarikan adat budaya yang baik.</li>
-                  <li>Pembuatan program agropreneur yang merupakan sinkronisasi antara pertanian dan program desa wisata sehingga mampu mensejetarahkan masyarakat.</li>
-                  <li>Pembuatan program peningkatan sarpras olahraga dengan pembuatan stadion mini sehingga bisa digunakan untuk sarana olahraga dan juga untuk edukasi atau Pendidikan keolahragaan.</li>
-                  <li>Melanjutkan pembangunan infrastruktur jalan desa d seluruh Desa Klego.</li>
+                </p> -->
+                <ol class="pl-5">
+                  <li>Meningkatkan pembangunan inrastruktur yang mendukung perekonomian desa</li>
+                  <li>Mewujudkan sarana prasarana desa yang baik</li>
+                  <li>Menciptakan tata kelola pemerintahan yang baik</li>
+                  <li>Mewujudkan desa yang unggul dan berprestasi</li>
+                  <li>Mewujudkan masyarakat yang sehat dan sejahtera</li>
                 </ol>
               </div>
             </div>
           </div>
         </div>
-        <div class="action-section bg-white" style="overflow: hidden" id="struktur">
+        <!-- <div class="action-section bg-white" style="overflow: hidden" id="struktur">
           <div class="container">
             <h1 class="font-weight-bold text-center mb-5" style="color: #076825 !important" data-aos="fade-up" data-aos-delay="200" data-aos-duration="800"><span>
                 Struktur Organisasi
@@ -89,8 +88,8 @@
               </div>
             </div>
           </div>
-        </div>
-        <div class="project-section" style="overflow: hidden" id="berita">
+        </div> -->
+        <div class="action-section bg-white" style="overflow: hidden" id="berita">
           <div class="container">
             <h1 class="font-weight-bold text-center mb-5" style="color: #076825 !important" data-aos="fade-up" data-aos-delay="400" data-aos-duration="800"><span>
                 Berita
@@ -329,6 +328,7 @@ export default {
     margin-bottom: 0 20px 0 0;
   }
 .img-fluid{
+  overflow: hidden;
   width: 145px;
   height: 145px !important;
   object-fit: contain;

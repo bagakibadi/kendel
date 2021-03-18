@@ -51,7 +51,7 @@
                 <i class="fas fa-map-marker-alt"></i>
               </span>
               <span class="text">
-                Jl. Raya Karanggede – Gemolong Km. 07, Desa Klego Kec. Klego, Kab. Boyolali, Kodepos 57385
+                Kecamatan Kemusu, Boyolali, Jawa Tengah, Indonesia
               </span>
             </li>
           </ul>

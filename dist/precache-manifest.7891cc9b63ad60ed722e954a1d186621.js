@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/assets/video/KlegoVideo.mp4"
   },
   {
-    "revision": "7c9466822e4fbc42454c",
-    "url": "/css/app.6ddb2ea8.css"
+    "revision": "6d29740219caf620903e",
+    "url": "/css/app.7247bb11.css"
   },
   {
     "revision": "77f8dc165f5d30fbd4e7",
@@ -32,24 +32,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/PakGuntur.jpeg"
   },
   {
-    "revision": "b936167a8a170a70833525bba4b9e362",
-    "url": "/img/banyuurip.jpeg"
-  },
-  {
-    "revision": "b6bc3a21d33f88f9d8bf2f0c55925baf",
-    "url": "/img/logo.png"
+    "revision": "bbd332924b91999704fb0e001234b087",
+    "url": "/img/boyolali.png"
   },
   {
     "revision": "f15507b32fefc6af5e24ce7cffeb17a2",
     "url": "/img/struktur.png"
   },
   {
-    "revision": "805a6e41ca54265a08f20af2dec8c6a8",
+    "revision": "76ba071ba48b31c46f1ab8c8edc3ddc2",
     "url": "/index.html"
   },
   {
-    "revision": "7c9466822e4fbc42454c",
-    "url": "/js/app.c82768d0.js"
+    "revision": "6d29740219caf620903e",
+    "url": "/js/app.e8d56bbe.js"
   },
   {
     "revision": "77f8dc165f5d30fbd4e7",
@@ -57,14 +53,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "5258c2d2ee0d581ef7b14b06be254547",
-    "url": "/klego.ico"
+    "url": "/logo.ico"
   },
   {
     "revision": "bd0b0959c86fdac6da2ed856997e0c85",
     "url": "/manifest.json"
   },
   {
-    "revision": "b6216d61c03e6ce0c9aea6ca7808f7ca",
+    "revision": "735ab4f94fbcd57074377afca324c813",
     "url": "/robots.txt"
   }
 ]);

@@ -28,7 +28,7 @@
                <div class="col-md-6">
                   <div class="box-right">
                      <a href="/">
-                        <img src="/img/logo.png" class="w-100 h-100" alt="">
+                        <img src="/img/boyolali.png" class="w-100" style="height: 335px;object-fit: contain;" alt="">
                      </a>
                   </div>
                </div>
