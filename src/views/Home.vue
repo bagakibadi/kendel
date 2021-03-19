@@ -95,12 +95,12 @@
                 Berita
               </span>
             </h1>
-            <div class="row">
+            <div class="row m-0">
               <div class="col-md-4" v-for="item in pageOfItems" :key="item.id" data-aos="fade-up-right" data-aos-delay="500" data-aos-duration="800">
                 <div class="cards">
                   <div class="penampungimg">
                     <a target="new" href="#">
-                      <img src="https://mice.id/warehouse/assets/news/news_images_1609425816.jpg" class="imgcontent">
+                      <img src="/img/news.jpg" class="imgcontent">
                     </a>
                   </div>
                   <div class="dalemcards">
@@ -108,7 +108,7 @@
                       <h1 id="juduld" class="juduldalam">Destinasi</h1>
                     </a>
                     <p class="text-muted tanggal">2020-12-31 14:43:36</p>
-                    <p class="sinopsiscard">Bali: Surga Lokasi Penyelenggaraan Event MICE</p>
+                    <p class="sinopsiscard">Berita Terkini</p>
                     <hr>
                     <div style="display: flex;">
                       <div class="icons">
@@ -163,48 +163,10 @@ export default {
     return {
       berita: [
         {
-          id: 1,
-          nama: 'asu'
+          id: 1
         },
         {
-          id: 2,
-          nama: 'asu'
-        },
-        {
-          id: 3,
-          nama: 'asu'
-        },
-        {
-          id: 4,
-          nama: 'asu'
-        },
-        {
-          id: 5,
-          nama: 'asu'
-        },
-        {
-          id: 6,
-          nama: 'asu'
-        },
-        {
-          id: 7,
-          nama: 'asu'
-        },
-        {
-          id: 8,
-          nama: 'asu'
-        },
-        {
-          id: 9,
-          nama: 'asu'
-        },
-        {
-          id: 10,
-          nama: 'asu'
-        },
-        {
-          id: 11,
-          nama: 'asu'
+          id: 2
         }
       ],
       pageOfItems: []
@@ -269,7 +231,7 @@ export default {
     border-radius: 10px;
     height:420px;
     width: 100%;
-    margin:20px 10px;
+    margin:20px 0px;
     background: white;
   }
   .penampungimg{
